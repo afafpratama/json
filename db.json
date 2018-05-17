@@ -1,0 +1,16 @@
+{
+  "mahasiswa": [
+    { "id": 1, "nama": "Mhs A", "telp": 811, "angkatan": 2011, "jurusan": 1 },
+    { "id": 2, "nama": "Mhs B", "telp": 812, "angkatan": 2012, "jurusan": 2 },
+    { "id": 3, "nama": "Mhs C", "telp": 813, "angkatan": 2013, "jurusan": 3 },
+    { "id": 4, "nama": "Mhs D", "telp": 814, "angkatan": 2014, "jurusan": 4 },
+    { "id": 5, "nama": "Mhs E", "telp": 815, "angkatan": 2015, "jurusan": 5 }
+  ],
+  "jurusan": [
+    { "id": 1, "nama": "Teknik Informatika", "dosen": "Dosen A" },
+    { "id": 2, "nama": "Teknik Komputer", "dosen": "Dosen B" },
+    { "id": 3, "nama": "Sistem Informasi", "dosen": "Dosen C" },
+    { "id": 4, "nama": "Teknik Mektronika", "dosen": "Dosen D" },
+    { "id": 5, "nama": "Otomasi Industri", "dosen": "Dosen E" }
+  ]
+}
